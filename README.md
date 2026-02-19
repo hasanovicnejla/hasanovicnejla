@@ -10,10 +10,10 @@
 </div>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,linux,github,git,mysql,eclipse,idea,java,js,cpp,html,css,bootstrap,php,arduino,jquery,webflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,regex,linux,github,git,mysql,eclipse,idea,java,js,cpp,html,css,bootstrap,php,arduino,jquery,postman,webflow)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=postgresql,postman,kali,kotlin,mongodb,cs)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=postgresql,kali,kotlin,mongodb,cs)](https://skillicons.dev)
 
 ### Connect with me!
      Fast links to my socials!
